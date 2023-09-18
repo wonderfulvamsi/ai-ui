@@ -1,0 +1,13 @@
+/* ImageColumn.css */
+.image-column {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center images horizontally */
+  }
+  
+.image {
+    width: 50px;
+    height: 50px;
+    margin: 5px; /* Add some spacing between images */
+}
+  

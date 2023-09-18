@@ -6,3 +6,20 @@ body{
 .App {
   text-align: center;
 }
+
+.horizontal-container {
+  display: flex;
+  justify-content: space-evenly; /* Space around the divs */
+  align-items: center; /* Center vertically */
+}
+
+.img-col{
+  width: 30%;
+}
+
+.img-col img{
+height: 175px;
+width: 175px;
+margin-left: 0;
+margin-right: 0;
+}
