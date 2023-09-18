@@ -41,7 +41,7 @@ function App() {
         // Configure the AWS SDK with your access keys and desired region
         AWS.config.update({
           accessKeyId: "AKIAQ7QIZFXUSKB2NOI7", 
-          secretAccessKey: "VXXZwA3G4uEXzIaKfOzkXoVsn4thxs8aKVWd3rGs",
+          secretAccessKey: "---------------------------------------------------------------------------------------",
           region: 'ap-south-1',
         });
 
